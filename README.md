@@ -12,7 +12,7 @@ The data science team trains an image classification model which, given an image
 
 The training of the ML model has been completed and the performance are deemed good enough to go to the production phase. [At this link](https://pytorch.org/hub/pytorch_vision_resnet/) you will find
 
-- the trained model
+- the trained model (use resnet18)
 - a complete tutorial on how to interact with the model - i.e the expected input - and what result is returned
 
 As a ML engineer your task is to put this machine learning model to good use. The application architecture looks like the following
