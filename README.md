@@ -51,7 +51,7 @@ The service should
 You will not deploy the model yourself but you'll need to rely on the DevOps team. The team has a set of requirements for a new service to be deployed:
 
 - The service should be containerized so a dockerfile should be provided
-- Proper documentation describing the service interface and example of invocation should be provided
+- Proper documentation describing the service interface and examples of invocation should be provided
 
 In a nutshell your job is to create a production ready rest service and then leave it to the DevOps team the job to deploy it to the Kubernets cluster.
 
