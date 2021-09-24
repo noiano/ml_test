@@ -45,7 +45,7 @@ You need to build a rest service that allows the application to make use of the 
 
 The service should
 
-- accept an image over an http request
+- accept an image in a request
 - return a response with at most five categories, ranked in descending order of confidence.
 
 You will not deploy the model yourself but you'll need to rely on the DevOps team. The team has a set of requirements for a new service to be deployed:
